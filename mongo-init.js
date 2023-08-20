@@ -1,0 +1,1 @@
+db.Pessoas.createIndex({"apelido": "text"}, {"unique": true})
